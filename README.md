@@ -53,7 +53,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/google/cloud-sdk-docker/master/gcp-logo.svg" height="60" alt="Dataproc"/>
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Google_Vertex_Logo.png" height="60" alt="Vertex AI"/>
+  <img src="https://static.wixstatic.com/media/ae2a18_da5e51a6483b46a4add6e7b5f44c4ec2~mv2.jpg/v1/fill/w_790,h_530,al_c,q_85/ae2a18_da5e51a6483b46a4add6e7b5f44c4ec2~mv2.jpg" height="60" alt="Vertex AI"/>
 </div>
 
 ### 🧰 Other Tools & Languages
