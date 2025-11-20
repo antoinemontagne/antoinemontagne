@@ -14,6 +14,10 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="60" alt="NumPy"/>
   <img width="12"/>
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" height="60" alt="Scikit-Learn"/>
+  <img width="12"/>
+  <img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg" height="60" alt="PyTorch"/>
+  <img width="12"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="60" alt="SciPy"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" height="60" alt="Optuna"/>
