@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/antoine-montagne-523533194/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="40" alt="LinkedIn logo" />
   </a>
+  <a href="https://antoinemontagne.github.io/CV_Antoine_Montagne.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-View-blue?style=flat-square&logo=adobeacrobat&logoColor=white" height="40" alt="CV"/>
+  </a>
 </div>
 
 ---
