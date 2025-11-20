@@ -81,14 +81,26 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 ## 📌 Featured Projects
 
 ### 🔹 Twitter Disinformation Analysis
-NLP pipeline with RoBERTa fine-tuning, Kafka data streaming, Dockerized model serving, and Kibana dashboards.  
-**Tech:** NLP, Docker, Kafka, ML  
+Student project: Developed a system to detect information manipulation in a tweets database. Built an NLP pipeline with RoBERTa fine-tuning to extract metadata such as sentiment scores and early disinformation indicators. Integrated Dockerized models for scalable deployment and used Kafka for high-volume data streaming. Visualized content evolution in real-time via a Kibana dashboard.  
+
+**Tech:**  
+<div align="center">
+  <img src="assets/icons/python.png" height="40" alt="Python"/>
+  <img width="12"/>
+  <img src="assets/icons/docker.png" height="40" alt="Docker"/>
+  <img width="12"/>
+  <img src="assets/icons/kafka.png" height="40" alt="Kafka"/>
+  <img width="12"/>
+  <img src="assets/icons/huggingface.png" height="40" alt="Hugging Face"/>
+</div>
+
 ➡️ Repo: [github.com/antoinemontagne/KafkaFilRouge](https://github.com/antoinemontagne/KafkaFilRouge)
+
 
 ---
 
 ## 📫 Contact
 
 📧 Email: **antoinemontagne387@gmail.com**  
-🔗 LinkedIn: **[your LinkedIn link](https://www.linkedin.com/in/antoine-montagne-523533194/)**  
+🔗 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/antoine-montagne-523533194/)**  
 
