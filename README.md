@@ -3,13 +3,15 @@
   <p>Data Scientist | DevOps | GCP Practitioner</p>
 
   <a href="mailto:antoinemontagne387@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square" height="40" alt="Gmail logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/antoine-montagne-523533194/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="40" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/antoine-montagne-523533194/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  &nbsp;
   <a href="https://antoinemontagne.github.io/antoinemontagne/CV_Antoine_Montagne.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-View-blue?style=flat-square&logo=adobeacrobat&logoColor=white" height="40" alt="CV"/>
+    <img src="https://img.shields.io/badge/CV-View-blue?style=flat-square&logo=adobeacrobat&logoColor=white" height="35" />
   </a>
 </div>
 
