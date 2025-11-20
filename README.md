@@ -63,7 +63,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=solidity" height="35" alt="Solidity"/>
   <img src="https://skillicons.dev/icons?i=matlab" height="35" alt="MATLAB"/>
-  <img src="https://skillicons.dev/icons?i=spotfire" height="35" alt="Spotfire"/>
+  <img src="https://avatars.githubusercontent.com/u/143085418?s=200&v=4" height="35" alt="Spotfire"/>
 </div>
 
 ---
