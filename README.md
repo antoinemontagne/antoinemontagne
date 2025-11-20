@@ -40,7 +40,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 <div align="center">
   <img src="https://skillicons.dev/icons?i=apachekafka" height="60" alt="Kafka"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="PySpark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/28/Apache_Spark_logo.svg" height="60" alt="Spark"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform"/>
   <img width="12"/>
