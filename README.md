@@ -1,21 +1,24 @@
 # 👋 Hi, I'm Antoine Montagne
 
-<div align="left">
+<br/>
+<div align="center">
   <a href="mailto:antoinemontagne387@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="Gmail logo"  />
   </a>
+  <span width="20"></span>
   <a href="https://www.linkedin.com/in/antoine-montagne-523533194/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="LinkedIn logo"  />
   </a>
 </div>
+<br/><br/>
 
-I’m a Data Scientist with strong foundations in Machine Learning and DevOps, built through nearly two years in data consulting and a specialized engineering background. I enjoy building end-to-end ML systems — from data preprocessing to cloud deployment.
+I’m a Data Scientist with strong foundations in Machine Learning and DevOps, built through nearly two years in data consulting and a specialized engineering background. I enjoy building end-to-end ML systems from data preprocessing to cloud deployment.
 
 ---
 
 ## 🔧 Tech Stack
 
-### 🧠 Python & Machine Learning
+### Python & Machine Learning
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="60" alt="Python"/>
   <img width="12"/>
@@ -39,7 +42,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 </div>
 <br/>
 
-### 🛠️ DevOps & CI/CD
+### DevOps & CI/CD
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" height="60" alt="Bash"/>
   <img width="12"/>
@@ -51,7 +54,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 </div>
 <br/>
 
-### 🏗️ Data Engineering
+### Data Engineering
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" height="60" alt="Kafka"/>
   <img width="12"/>
@@ -67,7 +70,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 </div>
 <br/>
 
-### ☁️ Google Cloud Platform (GCP)
+### Google Cloud Platform (GCP)
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" height="60" alt="Google Cloud"/>
   <img width="12"/>
@@ -79,7 +82,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 </div>
 <br/>
 
-### 🧰 Other Tools & Languages
+### Other Tools & Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"/>
   <img width="12"/>
