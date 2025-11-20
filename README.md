@@ -6,20 +6,45 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 
 ## 🔧 Tech Stack
 
-**Python & Machine Learning:**  
-Scikit-learn, PyTorch, Pandas, NumPy, Optuna, ONNX, Statsmodels, SciPy, Polars
+<div align="center">
 
-**DevOps & CI/CD:**  
-Bash, Docker, Kubernetes, GitHub Actions
+  <!-- Python & ML -->
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="Statsmodels"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI (if needed)"/>
 
-**Data Engineering:**  
-Spark / PySpark, SQL, Kafka, Terraform
+  <br/><br/>
 
-**Google Cloud Platform (GCP):**  
-Vertex AI Pipelines, Dataproc, BigQuery
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions"/>
 
-**Other Tools & Languages:**  
-MATLAB integration, Spotfire, C++, Solidity (learning)
+  <br/><br/>
+
+  <!-- Data Engineering -->
+  <img src="https://skillicons.dev/icons?i=apachekafka" height="60" alt="Kafka"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="PySpark"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL"/>
+
+  <br/><br/>
+
+  <!-- Cloud (GCP) -->
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud Platform"/>
+
+  <br/><br/>
+
+  <!-- Other -->
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=solidity" height="60" alt="Solidity"/>
+  <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="MATLAB"/>
+
+</div>
 
 ---
 
