@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Antoine Montagne
 
-<!--
-**antoinemontagne/antoinemontagne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Scientist with strong foundations in Machine Learning and DevOps, built through nearly two years in data consulting and a specialized engineering background. I enjoy building end-to-end ML systems — from data preprocessing to cloud deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Python & Machine Learning:**  
+Scikit-learn, PyTorch, Pandas, NumPy, Optuna, ONNX, Statsmodels, SciPy, Polars
+
+**DevOps & CI/CD:**  
+Bash, Docker, Kubernetes, GitHub Actions
+
+**Data Engineering:**  
+Spark / PySpark, SQL, Kafka, Terraform
+
+**Google Cloud Platform (GCP):**  
+Vertex AI Pipelines, Dataproc, BigQuery
+
+**Other Tools & Languages:**  
+MATLAB integration, Spotfire, C++, Solidity (learning)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Twitter Disinformation Analysis
+NLP pipeline with RoBERTa fine-tuning, Kafka data streaming, Dockerized model serving, and Kibana dashboards.  
+**Tech:** NLP, Docker, Kafka, ML  
+➡️ Repo: [github.com/antoinemontagne/KafkaFilRouge](https://github.com/antoinemontagne/KafkaFilRouge)
+
+---
+
+## 📫 Contact
+
+📧 Email: **antoinemontagne387@gmail.com**  
+🔗 LinkedIn: **[your LinkedIn link](https://www.linkedin.com/in/antoine-montagne-523533194/)**  
+
