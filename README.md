@@ -26,11 +26,11 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 
 ### 🛠️ DevOps & CI/CD
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" height="60" alt="Bash"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="60" alt="Docker"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" height="60" alt="Kubernetes"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions"/>
 </div>
@@ -40,17 +40,21 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 <div align="center">
   <img src="https://skillicons.dev/icons?i=apachekafka" height="60" alt="Kafka"/>
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/28/Apache_Spark_logo.svg" height="60" alt="Spark"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" height="60" alt="Spark"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" height="60" alt="Hadoop"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" height="60" alt="Terraform"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="60" alt="SQL"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" height="60" alt="Elasticsearch"/>
 </div>
 <br/>
 
 ### ☁️ Google Cloud Platform (GCP)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" height="60" alt="Google Cloud"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="60" alt="BigQuery"/>
   <img width="12"/>
