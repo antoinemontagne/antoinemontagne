@@ -1,5 +1,14 @@
 # 👋 Hi, I'm Antoine Montagne
 
+<div align="left">
+  <a href="mailto:antoinemontagne387@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/antoine-montagne-523533194/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
+  </a>
+</div>
+
 I’m a Data Scientist with strong foundations in Machine Learning and DevOps, built through nearly two years in data consulting and a specialized engineering background. I enjoy building end-to-end ML systems — from data preprocessing to cloud deployment.
 
 ---
@@ -101,12 +110,4 @@ Student project: Developed a system to detect information manipulation in a twee
 </div>
 
 ➡️ Repo: [github.com/antoinemontagne/KafkaFilRouge](https://github.com/antoinemontagne/KafkaFilRouge)
-
-
----
-
-## 📫 Contact
-
-📧 Email: **antoinemontagne387@gmail.com**  
-🔗 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/antoine-montagne-523533194/)**  
 
