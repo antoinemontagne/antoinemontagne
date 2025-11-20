@@ -20,50 +20,50 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 
 ### Python & Machine Learning
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="50" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="50" alt="NumPy"/>
-  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" height="50" alt="Scikit-Learn"/>
-  <img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg" height="50" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="50" alt="SciPy"/>
-  <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2.svg" height="50" alt="Statsmodels"/>
-  <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" height="50" alt="Optuna"/>
-  <img src="https://raw.githubusercontent.com/onnx/onnx/main/docs/onnx-horizontal-color.png" height="50" alt="ONNX"/>
-  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" height="50" alt="Polars"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="35" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="35" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="35" alt="NumPy"/>
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" height="35" alt="Scikit-Learn"/>
+  <img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg" height="35" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="35" alt="SciPy"/>
+  <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2.svg" height="35" alt="Statsmodels"/>
+  <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" height="35" alt="Optuna"/>
+  <img src="https://raw.githubusercontent.com/onnx/onnx/main/docs/onnx-horizontal-color.png" height="35" alt="ONNX"/>
+  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" height="35" alt="Polars"/>
 </div>
 
 ### DevOps & CI/CD
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" height="50" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="50" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" height="50" alt="Kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" height="35" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="35" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" height="35" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="GitHub Actions"/>
 </div>
 
 ### Data Engineering
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" height="50" alt="Kafka"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" height="50" alt="Spark"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" height="50" alt="Hadoop"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" height="50" alt="Terraform"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="50" alt="SQL"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" height="50" alt="Elasticsearch"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" height="35" alt="Kafka"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" height="35" alt="Spark"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" height="35" alt="Hadoop"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" height="35" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="35" alt="SQL"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" height="35" alt="Elasticsearch"/>
 </div>
 
 ### Google Cloud Platform (GCP)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" height="50" alt="Google Cloud"/>
-  <img src="assets/icons/bigquery.png" height="50" alt="BigQuery"/>
-  <img src="assets/icons/dataproc.png" height="50" alt="Dataproc"/>
-  <img src="assets/icons/vertexai.png" height="50" alt="Vertex AI"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" height="35" alt="Google Cloud"/>
+  <img src="assets/icons/bigquery.png" height="35" alt="BigQuery"/>
+  <img src="assets/icons/dataproc.png" height="35" alt="Dataproc"/>
+  <img src="assets/icons/vertexai.png" height="35" alt="Vertex AI"/>
 </div>
 
 ### Other Tools & Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="Solidity"/>
-  <img src="https://skillicons.dev/icons?i=matlab" height="50" alt="MATLAB"/>
-  <img src="https://skillicons.dev/icons?i=spotfire" height="50" alt="Spotfire"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=solidity" height="35" alt="Solidity"/>
+  <img src="https://skillicons.dev/icons?i=matlab" height="35" alt="MATLAB"/>
+  <img src="https://skillicons.dev/icons?i=spotfire" height="35" alt="Spotfire"/>
 </div>
 
 ---
