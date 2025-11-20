@@ -55,6 +55,12 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 ### ☁️ Google Cloud Platform (GCP)
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" height="60" alt="Google Cloud"/>
+  <img width="12"/>
+  <img src="assets/icons/bigquery.png" height="60" alt="BigQuery"/>
+  <img width="12"/>
+  <img src="assets/icons/dataproc.png" height="60" alt="Dataproc"/>
+  <img width="12"/>
+  <img src="assets/icons/vertexai.png" height="60" alt="Vertex AI"/>
 </div>
 <br/>
 
