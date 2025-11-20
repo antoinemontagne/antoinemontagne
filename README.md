@@ -23,8 +23,6 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
   <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" height="60" alt="Polars"/>
 </div>
 
----
-
 ### 🛠️ DevOps & CI/CD
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="Bash"/>
@@ -36,20 +34,16 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions"/>
 </div>
 
----
-
 ### 🏗️ Data Engineering
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=apachekafka" height="60" alt="Kafka"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" height="60" alt="Kafka"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="PySpark"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Spark"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL"/>
 </div>
-
----
 
 ### ☁️ Google Cloud Platform (GCP)
 <div align="center">
@@ -61,8 +55,6 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Google_Vertex_Logo.png" height="60" alt="Vertex AI"/>
 </div>
-
----
 
 ### 🧰 Other Tools & Languages
 <div align="center">
