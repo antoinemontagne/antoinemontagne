@@ -47,11 +47,11 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 
 ### ☁️ Google Cloud Platform (GCP)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud Platform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="60" alt="Google Cloud Platform"/>
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="60" alt="BigQuery"/>
+  <img src="https://assets-global.website-files.com/615f1fff34fc8b8402943b9a/62ac6479634f4241c493d144_629f2f4227f8f90bb118f478_GoogleBigQuery_Google%2520Query.jpeg" height="60" alt="BigQuery"/>
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/google/cloud-sdk-docker/master/gcp-logo.svg" height="60" alt="Dataproc"/>
+  <img src="https://res.cloudinary.com/talend/image/upload/w_423/q_auto/qlik/partners/tile-image/tile-partner-technology-google-dataproc_bcaxjt.jpg" height="60" alt="Dataproc"/>
   <img width="12"/>
   <img src="https://static.wixstatic.com/media/ae2a18_da5e51a6483b46a4add6e7b5f44c4ec2~mv2.jpg/v1/fill/w_790,h_530,al_c,q_85/ae2a18_da5e51a6483b46a4add6e7b5f44c4ec2~mv2.jpg" height="60" alt="Vertex AI"/>
 </div>
