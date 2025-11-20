@@ -16,9 +16,9 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="60" alt="SciPy"/>
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/source/image/optuna-logo.png" height="60" alt="Optuna"/>
+  <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" height="60" alt="Optuna"/>
   <img width="12"/>
-  <img src="https://onnx.ai/assets/img/onnx-logo.png" height="60" alt="ONNX"/>
+  <img src="https://raw.githubusercontent.com/onnx/onnx/main/docs/onnx-horizontal-color.png" height="60" alt="ONNX"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" height="60" alt="Polars"/>
 </div>
