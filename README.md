@@ -38,7 +38,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 
 ### 🏗️ Data Engineering
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=apachekafka" height="60" alt="Kafka"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" height="60" alt="Kafka"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" height="60" alt="Spark"/>
   <img width="12"/>
@@ -89,7 +89,7 @@ Student project: Developed a system to detect information manipulation in a twee
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="40" alt="Docker"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=apachekafka" height="40" alt="Kafka"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" height="40" alt="Kafka"/>
   <img width="12"/>
   <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="40" alt="Hugging Face"/>
 </div>
