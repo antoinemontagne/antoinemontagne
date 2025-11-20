@@ -8,7 +8,7 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 
 ### 🧠 Python & Machine Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="60" alt="Python"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="60" alt="Pandas"/>
   <img width="12"/>
@@ -85,13 +85,13 @@ Student project: Developed a system to detect information manipulation in a twee
 
 **Tech:**  
 <div align="center">
-  <img src="assets/icons/python.png" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="40" alt="Python"/>
   <img width="12"/>
-  <img src="assets/icons/docker.png" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="40" alt="Docker"/>
   <img width="12"/>
-  <img src="assets/icons/kafka.png" height="40" alt="Kafka"/>
+  <img src="https://skillicons.dev/icons?i=apachekafka" height="40" alt="Kafka"/>
   <img width="12"/>
-  <img src="assets/icons/huggingface.png" height="40" alt="Hugging Face"/>
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="40" alt="Hugging Face"/>
 </div>
 
 ➡️ Repo: [github.com/antoinemontagne/KafkaFilRouge](https://github.com/antoinemontagne/KafkaFilRouge)
