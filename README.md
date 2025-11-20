@@ -54,6 +54,12 @@ I’m a Data Scientist with strong foundations in Machine Learning and DevOps, b
 ### ☁️ Google Cloud Platform (GCP)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud Platform"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="60" alt="BigQuery"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/google/cloud-sdk-docker/master/gcp-logo.svg" height="60" alt="Dataproc"/>
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Google_Vertex_Logo.png" height="60" alt="Vertex AI"/>
 </div>
 
 ---
